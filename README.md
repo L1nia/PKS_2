@@ -1,16 +1,9 @@
-# flutter_application_2
+# Практическая работа №2
+В качестве задания необходимо было оформить страницу 'Авторизация' на flutter'е.
+Запуск приложения через браузер:
+![cwZgxPjNY6M](https://github.com/user-attachments/assets/a28dce30-cc59-4227-96a2-ebbc7d4f617f)
 
-A new Flutter project.
+Запуск приложения через Windows:
 
-## Getting Started
+![tqDTIFRpe98](https://github.com/user-attachments/assets/2b8e3e6d-e263-4f58-b69d-cfe3cb645de4)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
