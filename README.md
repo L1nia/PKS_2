@@ -1,9 +1,9 @@
 # Практическая работа №2
 В качестве задания необходимо было оформить страницу 'Авторизация' на flutter'е.
 Запуск приложения через браузер:
-![JaPZQ-9q-O0](https://github.com/user-attachments/assets/11e7a167-e69b-4ef6-a92b-6e5c30a632ff)
+![cwZgxPjNY6M](https://github.com/user-attachments/assets/a28dce30-cc59-4227-96a2-ebbc7d4f617f)
 
 Запуск приложения через Windows:
-![0BRp1C-oKN14jda2UjPU_gzdb_1F3YpR4ZmpYouPXhraWkeWU1pNB6CGZo_LLW0Q75tqNI_uwglmVNWdWkXwkx7Y](https://github.com/user-attachments/assets/dca85124-2eaa-4c57-a2b3-dfc3696dfb2d)
 
+![tqDTIFRpe98](https://github.com/user-attachments/assets/2b8e3e6d-e263-4f58-b69d-cfe3cb645de4)
 
