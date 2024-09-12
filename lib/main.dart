@@ -19,7 +19,6 @@ class AuthScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Авторизация'),
         centerTitle: true,
       ),
       body: Padding(
